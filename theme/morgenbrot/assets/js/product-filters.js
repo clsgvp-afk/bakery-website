@@ -1,0 +1,1 @@
+(()=>{'use strict';const form=document.querySelector('[data-product-filters]');if(!form)return;form.querySelectorAll('select,input[type="checkbox"]').forEach(field=>field.addEventListener('change',()=>form.requestSubmit()));})();

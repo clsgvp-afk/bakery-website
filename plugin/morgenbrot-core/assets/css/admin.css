@@ -1,0 +1,1 @@
+.morgenbrot-admin-fields{display:grid;grid-template-columns:1fr 1fr;gap:18px}.morgenbrot-admin-field{display:grid;gap:6px}.morgenbrot-gallery-preview{display:flex;gap:8px;flex-wrap:wrap}.morgenbrot-gallery-preview img{width:80px;height:80px;object-fit:cover;border-radius:4px}@media(max-width:782px){.morgenbrot-admin-fields{grid-template-columns:1fr}}
