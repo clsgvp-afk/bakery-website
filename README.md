@@ -1,6 +1,6 @@
-# Morgenbrot – custom WordPress bakery platform
+# Bakery Website
 
-Morgenbrot is an independent portfolio project for a fictional German family bakery. The repository contains a custom WordPress theme and a dedicated functionality plugin rather than a page-builder export.
+This project is an independent portfolio project for a fictional German family bakery. The repository contains a custom WordPress theme and a dedicated functionality plugin rather than a page-builder export.
 
 ## What the project demonstrates
 
@@ -37,8 +37,8 @@ docs/                   Architecture notes and QA checklist
 
 ## Live demo
 
-[Open the static portfolio demo](https://vercel-portfolio-upload.vercel.app/morgenbrot-full/)
+[Open the static portfolio demo](https://clsgvp-afk.github.io/morgenbrot-full/)
 
 ## Project status
 
-This is a practice project. Bäckerei Morgenbrot is fictional and no real orders or customer data are processed by the public demo.
+This is a practice project. Bäckerei This project is fictional and no real orders or customer data are processed by the public demo.
